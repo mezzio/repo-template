@@ -1,0 +1,2 @@
+version: ~> 1.0
+import: mezzio/.github/travis/supported.yml

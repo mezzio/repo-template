@@ -1,0 +1,3 @@
+# mezzio-{component}
+
+This component provides ...
