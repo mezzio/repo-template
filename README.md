@@ -1,6 +1,6 @@
 # mezzio-{component}
 
-[![Build Status](https://travis-ci.org/mezzio/mezzio-{component}.svg?branch=master)](https://travis-ci.org/mezzio/mezzio-{component})
+[![Build Status](https://travis-ci.com/mezzio/mezzio-{component}.svg?branch=master)](https://travis-ci.com/mezzio/mezzio-{component})
 [![Coverage Status](https://coveralls.io/repos/github/mezzio/mezzio-{component}/badge.svg?branch=master)](https://coveralls.io/github/mezzio/mezzio-{component}?branch=master)
 
 This library provides …
