@@ -1,7 +1,6 @@
 # mezzio-{component}
 
-[![Build Status](https://travis-ci.com/mezzio/mezzio-{component}.svg?branch=master)](https://travis-ci.com/mezzio/mezzio-{component})
-[![Coverage Status](https://coveralls.io/repos/github/mezzio/mezzio-{component}/badge.svg?branch=master)](https://coveralls.io/github/mezzio/mezzio-{component}?branch=master)
+[![Build Status](https://github.com/mezzio/mezzio-{component}/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/mezzio/mezzio-{component}/actions/workflows/continuous-integration.yml)
 
 This library provides …
 
