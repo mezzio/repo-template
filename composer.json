@@ -1,23 +1,27 @@
 {
     "name": "mezzio/mezzio-{component}",
     "description": "",
-    "license": "BSD-3-Clause",
     "keywords": [
         "mezzio"
     ],
-    "support": {
-        "docs": "https://docs.mezzio.dev/mezzio-{component}/",
-        "issues": "https://github.com/mezzio/mezzio-{component}/issues",
-        "source": "https://github.com/mezzio/mezzio-{component}",
-        "rss": "https://github.com/mezzio/mezzio-{component}/releases.atom",
-        "forum": "https://discourse.laminas.dev/"
-    },
+    "license": "BSD-3-Clause",
     "require": {
         "php": "^7.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.5 || ^8.1",
         "squizlabs/php_codesniffer": "^3.5"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        },
+        "laminas": {
+            "module": "Mezzio\\{component-namespace}"
+        }
     },
     "autoload": {
         "psr-4": {
@@ -29,21 +33,17 @@
             "MezzioTest\\{component-namespace}\\": "test/"
         }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        },
-        "laminas": {
-            "module": "Mezzio\\{component-namespace}"
-        }
-    },
-    "config": {
-        "sort-packages": true
-    },
     "scripts": {
         "cs-check": "phpcs",
         "cs-fix": "phpcbf",
         "test": "phpunit --colors=always",
         "test-coverage": "phpunit --colors=always --coverage-clover clover.xml"
+    },
+    "support": {
+        "issues": "https://github.com/mezzio/mezzio-{component}/issues",
+        "forum": "https://discourse.laminas.dev/",
+        "source": "https://github.com/mezzio/mezzio-{component}",
+        "docs": "https://docs.mezzio.dev/mezzio-{component}/",
+        "rss": "https://github.com/mezzio/mezzio-{component}/releases.atom"
     }
 }
