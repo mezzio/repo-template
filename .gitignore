@@ -1,5 +1,9 @@
+/.phpcs-cache
 /.phpunit.result.cache
+/clover.xml
+/coveralls-upload.json
 /docs/html/
 /mezzio-mkdoc-theme.tgz
 /mezzio-mkdoc-theme/
+/phpunit.xml
 /vendor/
