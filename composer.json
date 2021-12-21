@@ -13,10 +13,10 @@
         "forum": "https://discourse.laminas.dev/"
     },
     "require": {
-        "php": "^7.3 || ^8.0"
+        "php": "^7.4 || ~8.0.0 || ~8.1.0"
     },
     "require-dev": {
-        "laminas/laminas-coding-standard": "^2.2",
+        "laminas/laminas-coding-standard": "~2.3.0",
         "phpunit/phpunit": "^9.5"
     },
     "autoload": {
@@ -46,6 +46,6 @@
         "cs-fix": "phpcbf",
         "test": "phpunit --colors=always",
         "static-analysis": "psalm --shepherd --stats",
-        "test-coverage": "phpunit --colors=always --coverage-clover clover.xml",
+        "test-coverage": "phpunit --colors=always --coverage-clover clover.xml"
     }
 }
