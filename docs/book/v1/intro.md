@@ -1,3 +1,3 @@
-# mezzio-{component}
+# mezzio-changeme
 
 This component provides ...

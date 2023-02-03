@@ -3,6 +3,6 @@ site_dir: docs/html
 nav:
     - Home: index.md
     - Introduction: v1/intro.md
-site_name: 'mezzio-{component}'
+site_name: 'mezzio-changeme'
 site_description: ''
-repo_url: 'https://github.com/mezzio/mezzio-{component}'
+repo_url: 'https://github.com/mezzio/mezzio-changeme'

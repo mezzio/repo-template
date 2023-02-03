@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:noNamespaceSchemaLocation="vendor/phpunit/phpunit/phpunit.xsd"
-         bootstrap="vendor/autoload.php"
-         colors="true"
-         convertDeprecationsToExceptions="true"
+<phpunit
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="vendor/phpunit/phpunit/phpunit.xsd"
+  bootstrap="vendor/autoload.php"
 >
   <coverage>
     <include>
@@ -11,7 +10,7 @@
     </include>
   </coverage>
   <testsuites>
-    <testsuite name="Mezzio {component} Tests">
+    <testsuite name="Mezzio changeme Tests">
       <directory>./test</directory>
     </testsuite>
   </testsuites>

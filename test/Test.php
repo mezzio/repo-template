@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace MezzioTest\{component-namespace};
+namespace MezzioTest\ChangeMe;
 
 use PHPUnit\Framework\TestCase;
 

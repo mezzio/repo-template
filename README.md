@@ -1,6 +1,6 @@
-# mezzio-{component}
+# mezzio-changeme
 
-[![Build Status](https://github.com/mezzio/mezzio-{component}/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/mezzio/mezzio-{component}/actions/workflows/continuous-integration.yml)
+[![Build Status](https://github.com/mezzio/mezzio-changeme/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/mezzio/mezzio-changeme/actions/workflows/continuous-integration.yml)
 
 > ## 🇷🇺 Русским гражданам
 >
@@ -25,14 +25,14 @@ This library provides …
 Run the following to install this library:
 
 ```bash
-$ composer require mezzio/mezzio-{component}
+$ composer require mezzio/mezzio-changeme
 ```
 
 ## Documentation
 
-Browse the documentation online at https://docs.mezzio.dev/mezzio-{component}/
+Browse the documentation online at https://docs.mezzio.dev/mezzio-changeme/
 
 ## Support
 
-* [Issues](https://github.com/mezzio/mezzio-{component}/issues/)
+* [Issues](https://github.com/mezzio/mezzio-changeme/issues/)
 * [Forum](https://discourse.laminas.dev/)

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Mezzio\{component-namespace};
+namespace Mezzio\ChangeMe;
 
 final class ConfigProvider
 {

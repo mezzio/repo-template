@@ -23,17 +23,17 @@
     },
     "autoload": {
         "psr-4": {
-            "Mezzio\\{component-namespace}\\": "src//"
+            "Mezzio\\ChangeMe\\": "src//"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "MezzioTest\\{component-namespace}\\": "test/"
+            "MezzioTest\\ChangeMe\\": "test/"
         }
     },
     "extra": {
         "laminas": {
-            "module": "Mezzio\\{component-namespace}"
+            "module": "Mezzio\\ChangeMe"
         }
     },
     "config": {
