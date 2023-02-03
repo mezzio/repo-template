@@ -6,7 +6,6 @@ namespace MezzioTest\ChangeMe;
 
 use PHPUnit\Framework\TestCase;
 
-
 class Test extends TestCase
 {
     public function testEmpty(): void
