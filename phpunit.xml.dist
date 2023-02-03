@@ -5,7 +5,7 @@
          colors="true"
          convertDeprecationsToExceptions="true"
 >
-  <coverage processUncoveredFiles="true">
+  <coverage>
     <include>
       <directory suffix=".php">./src</directory>
     </include>
