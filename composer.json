@@ -6,10 +6,10 @@
         "mezzio"
     ],
     "support": {
-        "docs": "https://docs.mezzio.dev/mezzio-{component}/",
-        "issues": "https://github.com/mezzio/mezzio-{component}/issues",
-        "source": "https://github.com/mezzio/mezzio-{component}",
-        "rss": "https://github.com/mezzio/mezzio-{component}/releases.atom",
+        "docs": "https://docs.mezzio.dev/mezzio-changeme/",
+        "issues": "https://github.com/mezzio/mezzio-changeme/issues",
+        "source": "https://github.com/mezzio/mezzio-changeme",
+        "rss": "https://github.com/mezzio/mezzio-changeme/releases.atom",
         "forum": "https://discourse.laminas.dev/"
     },
     "require": {
