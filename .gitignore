@@ -1,7 +1,6 @@
 /.phpcs-cache
-/.phpunit.result.cache
+/.phpunit.cache/
 /clover.xml
-/coveralls-upload.json
 /docs/html/
 /mezzio-mkdoc-theme.tgz
 /mezzio-mkdoc-theme/
