@@ -1,6 +1,6 @@
 # mezzio-changeme
 
-[![Build Status](https://github.com/mezzio/mezzio-changeme/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/mezzio/mezzio-changeme/actions/workflows/continuous-integration.yml)
+[![Build Status](https://github.com/mezzio/mezzio-changeme/workflows/Continuous%20Integration/badge.svg)](https://github.com/mezzio/mezzio-changeme/actions?query=workflow%3A"Continuous+Integration")
 
 > ## 🇷🇺 Русским гражданам
 >
